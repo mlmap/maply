@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mlmap
-- 👀 I’m interested in Front End Developer
+- 👋 Hi, I’m Map 
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on community
+- 💞️ I’m looking for an Internship as a Web developer
 
 <!---
 mlmap/mlmap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
